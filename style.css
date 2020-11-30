@@ -1,0 +1,20 @@
+    body {
+        margin: 0;
+        background: #000;
+    }
+    
+    div.root {
+        padding: 3rem;
+        font-family: 'Press Start 2P', Consolas, monospace;
+        text-align: center;
+    }
+    
+    div.root1 {
+        font-family: 'Press Start 2P', monospace;
+        color: white;
+    }
+    
+    div.root canvas {
+        display: block;
+        margin: 0 auto;
+    }
